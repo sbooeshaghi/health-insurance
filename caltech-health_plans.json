@@ -1,0 +1,66 @@
+{
+  "PPO1600-22": {
+    "year": 2022,
+    "plan_type": "PPO",
+    "premium": 1776,
+    "deductible": 1600,
+    "oopm": 4000,
+    "premium_sub": 9975.36
+  },
+  "PPO2800-22": {
+    "year": 2022,
+    "plan_type": "PPO",
+    "premium": 660,
+    "deductible": 2800,
+    "oopm": 4000,
+    "premium_subsidy": 9089.04
+  },
+  "AnthemHMO-22": {
+    "year": 2022,
+    "plan_type": "HMO",
+    "premium": 1956,
+    "deductible": 0,
+    "oopm": 1500,
+    "premium_subsidy": 6347.28
+  },
+  "KaiserHMO-22": {
+    "year": 2022,
+    "plan_type": "HMO",
+    "premium": 1956,
+    "deductible": 0,
+    "oopm": 1500,
+    "premium_subsidy": 5299.44
+  },
+  "PPO1800-23": {
+    "year": 2023,
+    "plan_type": "PPO",
+    "premium": 1860,
+    "deductible": 1800,
+    "oopm": 4000,
+    "premium_subsidy": 10478.88
+  },
+  "PPO3000-23": {
+    "year": 2023,
+    "plan_type": "PPO",
+    "premium": 648,
+    "deductible": 3000,
+    "oopm": 4000,
+    "premium_subsidy": 8613.6
+  },
+  "AnthemHMO-23": {
+    "year": 2023,
+    "plan_type": "HMO",
+    "premium": 2076,
+    "deductible": 0,
+    "oopm": 1500,
+    "premium_subsidy": 6738
+  },
+  "KaiserHMO-23": {
+    "year": 2023,
+    "plan_type": "HMO",
+    "premium": 1860,
+    "deductible": 0,
+    "oopm": 1500,
+    "premium_subsidy": 5036.16
+  }
+}
