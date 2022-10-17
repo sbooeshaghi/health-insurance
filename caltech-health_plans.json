@@ -36,31 +36,51 @@
     "plan_type": "PPO",
     "premium": 1860,
     "deductible": 1800,
+    "deductible_multi": 3600,
     "oopm": 4000,
-    "premium_subsidy": 10478.88
+    "oopm_max": 8000,
+    "premium_subsidy": 10478.88,
+    "premium_children": 3912,
+    "premium_spouse": 4440,
+    "premium_family": 7008
   },
   "PPO3000-23": {
     "year": 2023,
     "plan_type": "PPO",
     "premium": 648,
     "deductible": 3000,
+    "deductible_multi": 6000,
     "oopm": 4000,
-    "premium_subsidy": 8613.6
+    "oopm_max": 8000,
+    "premium_subsidy": 8613.6,
+    "premium_children": 1344,
+    "premium_spouse": 1524,
+    "premium_family": 2400
   },
   "AnthemHMO-23": {
     "year": 2023,
     "plan_type": "HMO",
     "premium": 2076,
     "deductible": 0,
+    "deductible_multi": 0,
     "oopm": 1500,
-    "premium_subsidy": 6738
+    "oopm_max": 3000,
+    "premium_subsidy": 6738,
+    "premium_children": 4332,
+    "premium_spouse": 4932,
+    "premium_family": 7692
   },
   "KaiserHMO-23": {
     "year": 2023,
     "plan_type": "HMO",
     "premium": 1860,
     "deductible": 0,
+    "deductible_multi": 0,
     "oopm": 1500,
-    "premium_subsidy": 5036.16
+    "oopm_max": 3000,
+    "premium_subsidy": 5036.16,
+    "premium_children": 4008,
+    "premium_spouse": 4524,
+    "premium_family": 7248
   }
 }
