@@ -1,4 +1,20 @@
 {
+  "PPO1800-24": {
+    "year": 2024,
+    "plan_type": "PPO",
+    "premium": 1980,
+    "deductible": 1800,
+    "oopm": 4000,
+    "premium_subsidy": 0
+  },
+  "PPO3200-24": {
+    "year": 2024,
+    "plan_type": "PPO",
+    "premium": 708,
+    "deductible": 3200,
+    "oopm": 4000,
+    "premium_subsidy": 0
+  },
   "PPO1600-22": {
     "year": 2022,
     "plan_type": "PPO",
