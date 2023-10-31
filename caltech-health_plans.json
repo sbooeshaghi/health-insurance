@@ -5,7 +5,7 @@
     "premium": 1980,
     "deductible": 1800,
     "oopm": 4000,
-    "premium_subsidy": 0
+    "premium_subsidy": 10751.28
   },
   "PPO3200-24": {
     "year": 2024,
@@ -13,7 +13,7 @@
     "premium": 708,
     "deductible": 3200,
     "oopm": 4000,
-    "premium_subsidy": 0
+    "premium_subsidy": 8275.92
   },
   "PPO1600-22": {
     "year": 2022,
